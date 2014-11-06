@@ -1,0 +1,7 @@
+/.XcodeSupport
+
+/Frameworks
+
+/MultiNibApp.xcodeproj
+
+*.cib
